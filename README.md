@@ -1,1 +1,1 @@
-# Roguelike
+python main.py
